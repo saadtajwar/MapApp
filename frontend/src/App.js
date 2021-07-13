@@ -4,6 +4,8 @@ import RoomIcon from '@material-ui/icons/Room';
 import StarIcon from '@material-ui/icons/Star';
 import "./app.css"
 import axios from "axios";
+import Register from "./components/Register";
+import Login from "./components/Login";
 
 function App() {
   const currentUser = "Saad";
